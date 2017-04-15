@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "955921386746",
+    "firebase_url": "https://twgcl-v1.firebaseio.com",
+    "project_id": "twgcl-v1",
+    "storage_bucket": "twgcl-v1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955921386746:android:121801e2e6d7f034",
+        "android_client_info": {
+          "package_name": "com.tgwcl.divnitini.twgcl_v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955921386746-eh5l6jpgmhtdcavq2q4t0q4tk6rt3j3t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tgwcl.divnitini.twgcl_v1",
+            "certificate_hash": "dab23289c20bb3ce28fab61da5340c8b1fde18a1"
+          }
+        },
+        {
+          "client_id": "955921386746-s6kr5mn30ucmnr37do3s0lodolokse0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0H_wbyZrL-5Ca-H5pQ2Emgw-HiBMu_nU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955921386746-s6kr5mn30ucmnr37do3s0lodolokse0v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
